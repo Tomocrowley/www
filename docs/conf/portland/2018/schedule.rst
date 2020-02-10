@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/venue.png
+:banner: _static/conf/images/headers/venue.png
 
 Schedule
 ========
@@ -47,7 +47,7 @@ Reception
 We encourage everyone to drop by on Sunday evening for the conference reception.
 You'll have a chance to get acquainted with each other over some drinks and snacks,
 and pick up your badge so you can skip the line in the morning. Note that we are not
-able to accomodate additional guests at this event.
+able to accommodate additional guests at this event.
 
 * **Where**: Crystal Ballroom
 * **When**: **5pm-8pm**

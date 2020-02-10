@@ -51,9 +51,12 @@ Information about our regional Write the Docs conferences.
    confs/event-roles
    confs/cfp
    confs/communication
-   confs/volunteers
+   confs/volunteer-coordination
+   confs/volunteer-roles
+   confs/registration
    confs/welcome-wagon
    confs/community-events
+   confs/website
 
 .. TODO
 
@@ -65,9 +68,23 @@ Information about our regional Write the Docs conferences.
    confs/venues-logistics
    confs/sponsorship
    confs/tickets
-   confs/web-resources
    confs/print-resources
 
+We also recommend reading the DevOps Days organizer guide.
+They have very similar philosophies and have a great guide as well:
+
+https://devopsdays.org/organizing/
+
+Community Spotlight
+-------------------
+
+Information about contributing interview content for the community.
+
+.. toctree::
+   :maxdepth: 2
+
+   community-spotlight-interviewing-guide
+    
 Credits
 -------
 

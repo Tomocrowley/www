@@ -105,7 +105,7 @@ the first draft of documentation. These texts no doubt will need a bit
 of clean up before publishing, but by front-loading the documentation,
 you lay a clear path forwards. Early documentation also helps facilitate
 peer feedback and group decisions to guide your work. This model is the
-sentiment behind :ref:`documentation-driven-design`.
+sentiment behind `documentation driven design <../style-guides#documentation-driven-design>`_.
 
 Participatory
 ~~~~~~~~~~~~~
@@ -203,7 +203,7 @@ The more content editors you have, the more important a `style guide`_
 becomes in facilitating consistency. Consistency also helps make documentation
 `skimmable <#skimmable>`__ and `beautiful <#beautiful>`__.
 
-.. _style guide: http://www.writethedocs.org/guide/writing/style-guides/
+.. _style guide: https://www.writethedocs.org/guide/writing/style-guides/
 
 Current
 ~~~~~~~

@@ -146,7 +146,7 @@ Figure out your approximate ratio between RSVP / attendees. This might be around
 Speakers:
 ~~~~~~~~~
 
-* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`__.
+* Look for previous and future speakers at `Write the Docs conferences <https://www.writethedocs.org/conf/>`__.
 * Scan other conferences local speakers.
 * Review other meetups and conferences for speakers of interest, in areas such as APIs, Agile, software languages, and more.
 * Speakers are often willing to reframe their talks from a documentation point of view.
@@ -172,26 +172,31 @@ Topics:
 
 The following are examples of topics that have worked well for other meetups:
 
-* API docs
-* Contibuting to OSS
-* Easy entry to OSS
-* Navigating career path (different sectors of tech writing)
-* Sketchnoting as documentation
-* Hackathon -- creating docs “The lone writers guide”
-* Howto Markdown (multiple methods)
-* Best practices
-* Pub socials
-* Communication probs with R&D
-* Visual docs
-* Info architecture
-* Language and cultural differences
-* Docs as code
+* API docs -- Approaches, tools, and best practices in API documentation.
+* Contributing to OSS -- Getting started with Github and open source projects.
+* Easy entry to OSS -- Finding good beginner projects to contribute to.
+* Navigating career path -- Understanding different sectors of tech writing and creating a long term plan.
+* Hackathon -- creating docs “The lone writers guide.”
+* Howto Markdown (multiple methods) -- Looking at different markdown implementations.
+* Best practices -- Determining, documenting, and implementing best practices in your tech writing team.
+* Pub socials -- Casual meetups that promote more freeform discussions and idea exchange.
+* Communication problems with R&D -- Bridging the gap between development and documentation.
+* Visual docs -- Represent non-linguistics ideas and instructions. 
+* Sketchnoting as documentation -- A kind of visual documentation or note-taking consisting of notes, drawings, hand-drawn typography, and other visual elements used to express ideas.
+* Information architecture -- Strategies for structuring and organizing documentation.
+* Language and cultural differences -- Discussing sociocultural factors impacting documentation.
+* Documentation as code -- Rethinking philosophy, tools, workflows, integration.
+* Documenting yourself -- Building effective portfolios. 
+* UI text -- Unique considerations in writing UI text.
+* What are you looking for in a new writer -- Thinking about experience, technical skills, culture fit, and trainability.
+* Collaborating with stakeholders -- Aligning goals on projects.
+* Creating content with limited resources and support -- How to approach tight deadlines and less-than-ideal situations.
 
 If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you can't find a local speaker, consider screening a popular talk from one of the
-`Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
+`Write the Docs conferences <https://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
 a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_

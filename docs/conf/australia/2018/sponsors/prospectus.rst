@@ -15,7 +15,7 @@ Write the Docs Australia 2018 Sponsorship
 Concept
 =======
 
-Write the Docs Australia (http://www.writethedocs.org/conf/australia/2018/) is a
+Write the Docs Australia (https://www.writethedocs.org/conf/australia/2018/) is a
 two day conference focusing on documentation systems, tech writing theory,
 and information delivery.
 
@@ -101,8 +101,6 @@ non-profits, and open source organisations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **$350**.
-
-.. TODO: You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
 
 Second Draft
 ------------

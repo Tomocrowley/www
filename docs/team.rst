@@ -30,8 +30,8 @@ Each conference has a specific team that helps run that event.
 For this year,
 you can see who is helping out:
 
-* :doc:`Portland 2017 Team </conf/na/2017/team>`
-* :doc:`Prague 2017 Team </conf/eu/2017/staff>`
+* :doc:`Portland 2019 Team </conf/portland/2019/team>`
+* :doc:`Prague 2019 Team </conf/prague/2019/team>`
 
 .. _moderation-team:
 
@@ -87,7 +87,7 @@ Members
 Guide Coordination Team
 -----------------------
 
-These are the folks who maintain http://www.writethedocs.org/guide/ and make sure it stays high quality.
+These are the folks who maintain https://www.writethedocs.org/guide/ and make sure it stays high quality.
 The site is built with Sphinx and hosted on Read the Docs,
 but
 
@@ -114,7 +114,7 @@ Responsibilities
 * Curate Slack conversations and distill them into brief newsletter stories
 * Write a monthly update on general goings-on in the community
 * Round up any Write the Docs events or meetups for the upcoming month
-* Assemble and publish the monthly newsletter to the mailing list and `the website <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_
+* Assemble and publish the monthly newsletter to the mailing list and `the website <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_
 
 Members
 ```````

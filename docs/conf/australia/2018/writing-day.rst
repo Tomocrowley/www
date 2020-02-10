@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/writing-day.png
+:banner: _static/conf/images/headers/writing-day.png
 
 Writing Day
 ===========
@@ -40,10 +40,6 @@ Improve navigation
 
 Let's discuss information architecture -- can we organize the content better? Provide better navigation?
 
-Write articles for the newsletter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Summarize content from the Slack channel for the `newsletter </blog/newsletter-may-2018/#looking-ahead>`_.
 
 Help develop the Documentation Guide
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
