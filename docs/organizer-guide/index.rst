@@ -23,9 +23,11 @@ Information about the global Write the Docs :doc:`/meetups/index`.
 .. toctree::
    :maxdepth: 2
 
+   meetups/covid-19-meetups
    meetups/starting
    meetups/faq-meetups
    meetups/sustainable-meetups
+   meetups/livestreaming-meetups
 
 Newsletter
 ------------
@@ -85,6 +87,14 @@ Information about contributing interview content for the community.
 
    community-spotlight-interviewing-guide
     
+Salary Surveys
+--------------
+
+.. toctree::
+   :maxdepth: 2
+
+   surveys
+
 Credits
 -------
 

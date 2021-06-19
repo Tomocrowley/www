@@ -165,7 +165,7 @@ This removes obstacles to actually putting words on the page.
    I recommend that you check them both out,
    and decide which you want to use going forward.
 
-.. _reStructuredText: http://sphinx-doc.org/rest.html#rst-primer
+.. _reStructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _Markdown: http://daringfireball.net/projects/markdown/
 
 Version controlled plain text
@@ -271,7 +271,7 @@ Information for people who want to contribute back
 
 People usually have standards for how they expect things to be done in their projects. You should document these so that if people write code, they can do things in the norm of the project. `Open Comparison`_ does a great job of this.
 
-.. _Open Comparison: http://opencomparison.readthedocs.org/en/latest/contributing.html
+.. _Open Comparison: https://packaginator.readthedocs.io/en/latest/contributing.html
 
 
 Installation instructions

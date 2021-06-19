@@ -6,14 +6,20 @@ Learning Resources
    :maxdepth: 2
    :hidden:
 
-   /newsletter
+   /topics
    /videos/index
    /podcast
    /organizer-guide/index
    /hiring-guide/index
    /guide/index
    /surveys/index
+   /book-club/index
    /books
+
+Topic Index
+~~~~~~~~~~~~
+
+All of our conference talks and newsletter articles, organised by topic: :doc:`/topics`
 
 Newsletter
 ~~~~~~~~~~
@@ -50,6 +56,20 @@ This is a growing set of resources for those who want to hire or be hired as a d
 
 You can check out the :doc:`/hiring-guide/index` here.
 
+Surveys
+~~~~~~~
+
+We sometimes create Surveys that help us understand a bit more about our community.
+The most recent is our :doc:`/surveys/salary-survey/2019`.
+
+Book Club Write-ups
+~~~~~~~~~~~~~~~~~~~
+
+The #learn-tech-writing channel in the Write the Docs :doc:`/slack` hosts a book club. This section contains summaries of discussions.
+
+You can check out the :doc:`/book-club/index` here.
+
 Reading List
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
 A `list of books </books/>`_ related to technical writing, information architecture, and content strategy.
